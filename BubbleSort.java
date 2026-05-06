@@ -1,6 +1,6 @@
 public class BubbleSort {
     public static void main(String[] args) {
-        int [] my_array={80,56,76,2,65,43,57,4};
+        int [] my_array={10,3,5,7,8,11,9,4};
         int n = my_array.length;
         for(int i=0; i<n-1;i++){
             for(int j=0;j<n-i-1;j++){
